@@ -6,7 +6,7 @@ PowerMX - NodeJS
 ## Instalacion Recomendada:
 ### Ubuntu 14/16
 ```
-apt-get update && apt-get upgrade
+apt-get update && apt-get upgrade && https://raw.githubusercontent.com/powermx/NodeJS/master/install && bash install
 ```
 
 ### Servicios Instalados
