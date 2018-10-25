@@ -1,8 +1,11 @@
 #/bin/bash
 echo "Instalando NodeJS - PowerMX"
 apt-get install -y build-essential
-apt-get install curl
-apt-get install git
-sudo apt-get install curl python-software-properties
+apt-get install -y curl
+apt-get install -y git
+apt-get install -y curl python-software-properties
 curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
-apt-get install nodejs
+apt-get install -y nodejs
+rm install
+clear
+echo "Instalacion finalizada"
