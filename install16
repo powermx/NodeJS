@@ -6,6 +6,6 @@ apt-get install -y git
 apt-get install -y curl python-software-properties
 curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 apt-get install -y nodejs
-rm install
+rm install16
 clear
 echo "Instalacion finalizada"
