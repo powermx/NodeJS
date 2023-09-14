@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/powermx/dl/master/nodejs.jpeg)
+
 # NodeJS
 Instalador de NodeJS
 
