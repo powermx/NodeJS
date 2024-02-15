@@ -31,5 +31,4 @@ Versión Actual: 20.x
 Dev Code Legion / PwrMX
 =========
 
-# Telegram: http://t.me/vpnmx
-# Blog: http://powermx.org/
+> Telegram: http://t.me/vpnmx
