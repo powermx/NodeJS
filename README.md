@@ -8,7 +8,12 @@ PowerMX - NodeJS
 ## Instalacion Recomendada:
 ### Ubuntu 14/16/18/20/22
 
-### NodeJS 20 (Latest)
+### NodeJS 21 (Latest)
+```
+apt-get update && apt-get upgrade && wget https://raw.githubusercontent.com/powermx/NodeJS/master/nodejs21 && bash nodejs21
+```
+
+### NodeJS 20
 ```
 apt-get update && apt-get upgrade && wget https://raw.githubusercontent.com/powermx/NodeJS/master/install && bash install
 ```
