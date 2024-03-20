@@ -1,4 +1,5 @@
 #!/bin/bash
+#PowerMX
 
 # Logger Function
 log() {
