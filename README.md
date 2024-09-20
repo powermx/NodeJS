@@ -6,7 +6,7 @@ Instalador de NodeJS
 PowerMX - NodeJS
 =========
 ## Instalacion Recomendada:
-### Ubuntu 14/16/18/20/22/23
+### Ubuntu 14/16/18/20/22/23/24
 
 ### NodeJS 22
 ```
