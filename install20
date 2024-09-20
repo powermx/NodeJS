@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Instalando NodeJS @ Latest - PowerMX"
+echo "Instalando NodeJS 20 - PowerMX"
 
 # Discussion, issues and change requests at:
 #   https://github.com/nodesource/distributions
