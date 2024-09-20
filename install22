@@ -1,5 +1,5 @@
 #!/bin/bash
-# PowerMX - NodeJS 22 Installer
+# PowerMX - NodeJS 22
 # Logger Function
 log() {
   local message="$1"
