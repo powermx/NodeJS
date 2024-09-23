@@ -1,5 +1,5 @@
 #!/bin/bash
-# PowerMX - NodeJS 22
+
 # Logger Function
 log() {
   local message="$1"
@@ -111,8 +111,3 @@ check_os
 # Main execution
 install_pre_reqs || handle_error $? "Failed installing pre-requisites"
 configure_repo "$NODE_VERSION" || handle_error $? "Failed configuring repository"
-echo -e "Instalando NodeJS"
-apt-get install nodejs -y
-echo -e "Verficando versión instalada"
-v='node -v'
-echo -e "Version Instalada : $v"
