@@ -42,16 +42,6 @@ check_os() {
 install_pre_reqs() {
     log "Installing pre-requisites" "info"
 
-    # Run 'apt-get update'
-    if ! apt-get update -y; then
-        handle_error "$?" "Failed to run 'apt-get update'"
-    fi
-
-    # Run 'apt-get install'
-    if ! apt-get install -y apt-transport-https ca-certificates curl gnupg; then
-        handle_error "$?" "Failed to install packages"
-    fi
-
     if ! mkdir -p /usr/share/keyrings; then
       handle_error "$?" "Makes sure the path /usr/share/keyrings exist or run ' mkdir -p /usr/share/keyrings' with sudo"
     fi
