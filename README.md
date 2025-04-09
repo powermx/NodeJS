@@ -10,7 +10,7 @@ PowerMX - NodeJS
 
 ### NodeJS 22
 ```
-apt-get update && apt-get upgrade && wget http://raw.githubusercontent.com/powermx/NodeJS/master/install22 && chmod +x install2 && ./install22
+apt-get update && apt-get upgrade && wget http://raw.githubusercontent.com/powermx/NodeJS/master/install22 && chmod +x install22 && ./install22
 ```
 
 ### NodeJS 21 
